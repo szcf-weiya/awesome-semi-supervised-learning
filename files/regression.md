@@ -4,7 +4,7 @@
 
 - Semi-supervised Active Linear Regression.
   [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/08fe4b20d554296e503f5a43795c78d6-Abstract-Conference.html)
-  - Nived Rajaraman, Fnu Devvrit, Pranjal Awasthi. *Neurips 2022*
+  - Nived Rajaraman, Fnu Devvrit, Pranjal Awasthi. *NeurIPS 2022*
 
 ### 2018
 
@@ -20,7 +20,7 @@
 ### 2017
 
 - Learning Safe Prediction for Semi-Supervised Regression. 
-  [[pdf]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14587) 
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/10856) 
   - Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou. *AAAI 2017*
 
 ### 2015
